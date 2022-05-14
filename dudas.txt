@@ -1,0 +1,2 @@
+like o =
+and o &&
